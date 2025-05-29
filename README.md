@@ -1,41 +1,52 @@
 # Flutter Accounting App Demo
 
-This is a simple personal finance app built with **Flutter**. It allows users to track their income and expenses in a clean and minimal interface.
+This is a simple Flutter app for tracking personal income and expenses.
 
-The goal of this project is to demonstrate how I structure a Flutter application, manage state, and handle basic logic such as calculating balances and listing transactions.
+I created this project as part of my portfolio to demonstrate how I build and structure real Flutter apps — clean UI, simple logic, and focused on the essentials.
+
+---
+
+## Why I built it
+
+The idea came from the need for a lightweight app that helps users keep track of their daily transactions without the complexity of full accounting tools.
+
+It's also a chance to show how I organize code, handle state, and plan for future backend integrations.
+
+---
 
 ## Features
 
-- Add income or expense entries
-- View running balance
-- See a list of all transactions with date and value
-- Responsive layout and basic styling
+- Add income and expense entries with description and amount  
+- View real-time balance  
+- See a list of past transactions  
+- Color-coded entries (green for income, red for expenses)  
+- Minimal and responsive interface  
 
-## Built With
+---
 
-- **Flutter** – UI framework
-- **Dart** – Programming language
-- **setState** – For basic state management
-- **Supabase (Planned)** – For user authentication and data storage
+## In Development / Future Plans
 
-## Motivation
+- Supabase integration (authentication + cloud database)  
+- Graphs and visual statistics  
+- Export data to PDF or Excel  
+- Multi-user support and secure login  
 
-I built this app as a portfolio project to showcase my development skills for remote opportunities. It’s intentionally simple, with room to grow (e.g., Supabase integration, login system, charts, etc.)
+---
 
-## Future Improvements
+## Screenshots
 
-- Integrate Supabase for user auth and persistent storage
-- Add visual charts (e.g., bar/pie graphs)
-- Multi-user support
-- Export to CSV or PDF
+> App screenshots will be added soon.
 
-## Author
+---
+
+## About Me
 
 **Xhevdet Ferizi**  
 📍 Kosovo  
-📧 ferizixhevdet@gmail.com  
+✉️ ferizixhevdet@gmail.com  
 🔗 [GitHub – xheki007](https://github.com/xheki007)
 
 ---
 
-**Note:** This project is part of my application to remote development roles. Keyword: `ELECTRIFY`
+**Note:** This project is part of my application to remote development roles.  
+**Keyword: `ELECTRIFY`**
