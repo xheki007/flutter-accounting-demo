@@ -31,13 +31,29 @@ This app is also part of my developer portfolio. I’m aiming to work remotely a
 - Sync across devices
 
 ---
-
+Below are some screenshots showing the flow and functionality of the app:
 ## Screenshots
-##  Screenshots
 
-### Home Screen
+## 📸 Screenshots
 
-![Home Screen](assets/screenshots/home_screen.png)
+### 1. Home Screen (Initial UI)
+A clean and simple layout showing the current balance and quick stats — before any transactions are added.
+
+![Home Screen](assets/screenshots/01_home_screen_static.png)
+
+---
+
+### 2. Add Transaction Screen
+A user-friendly form that lets you add either an income or an expense with just a couple of taps.
+
+![Add Transaction](assets/screenshots/02_add_transaction_screen.png)
+
+---
+
+### 3. Home Screen After Adding Transactions
+This screen reflects real-time data: updated balance, income/expenses summary, and a list of recent transactions.
+
+![Dynamic Home](assets/screenshots/03_home_screen_dynamic.png)
 
 
 ---
