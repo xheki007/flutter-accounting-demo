@@ -33,8 +33,12 @@ This app is also part of my developer portfolio. I’m aiming to work remotely a
 ---
 
 ## Screenshots
+##  Screenshots
 
-> App screenshots will be added soon.
+### Home Screen
+
+![Home Screen](assets/screenshots/home_screen.png)
+
 
 ---
 
