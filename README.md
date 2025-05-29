@@ -1,35 +1,34 @@
 # Flutter Accounting App Demo
 
-This is a simple Flutter app for tracking personal income and expenses.
+Hi! 👋 I'm Xhevdet, and this is a small Flutter app I built to manage income and expenses in a simple way.
 
-I created this project as part of my portfolio to demonstrate how I build and structure real Flutter apps — clean UI, simple logic, and focused on the essentials.
+I didn’t want anything complex — just something clean, fast, and easy to use. This project helped me explore how to structure a Flutter app, work with simple logic for finance tracking, and design a clear user interface.
+
+---
+
+## What the app does
+
+- Add an income or an expense, with a short description
+- See your current balance update instantly
+- Browse a list of your latest transactions
+- Enjoy a minimal, mobile-friendly interface
 
 ---
 
 ## Why I built it
 
-The idea came from the need for a lightweight app that helps users keep track of their daily transactions without the complexity of full accounting tools.
+There are many apps out there, but most are too heavy or packed with features I personally don’t need. I wanted something lighter — and more importantly, something I could build myself, from scratch.
 
-It's also a chance to show how I organize code, handle state, and plan for future backend integrations.
-
----
-
-## Features
-
-- Add income and expense entries with description and amount
-- View real-time balance
-- See a list of past transactions
-- Color-coded entries (green for income, red for expenses)
-- Minimal and responsive interface
+This app is also part of my developer portfolio. I’m aiming to work remotely as a Flutter developer, and I wanted to show what I can do.
 
 ---
 
-## In Development / Future Plans
+## What’s coming next
 
-- Supabase integration (authentication + cloud database)
-- Graphs and visual statistics
-- Export data to PDF or Excel
-- Multi-user support and secure login
+- Login system and user accounts (with Supabase)
+- Visual charts for monthly stats (pie/bar)
+- Export to PDF or Excel
+- Sync across devices
 
 ---
 
@@ -44,9 +43,9 @@ It's also a chance to show how I organize code, handle state, and plan for futur
 **Xhevdet Ferizi**  
 📍 Kosovo  
 ✉️ ferizixhevdet@gmail.com  
-🔗 [GitHub – xheki007](https://github.com/xheki007)
+🔗 [github.com/xheki007](https://github.com/xheki007)
 
 ---
 
-**Note:** This project is part of my application to remote development roles.  
+**Note:** This project is part of my application for remote developer roles.  
 **Keyword: `ELECTRIFY`**
