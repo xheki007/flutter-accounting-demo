@@ -34,9 +34,9 @@ Most finance apps out there are too complex or overloaded with features. I wante
 
 These screenshots show how the app works in practice:
 
-| Home Screen                              | Add Transaction Screen                     | Transactions List                          |
-|------------------------------------------|--------------------------------------------|--------------------------------------------|
-| ![Home Screen](assets/screenshots/transactions_screen.png) | ![Add Screen](assets/screenshots/home_screen.png) | ![List Screen](assets/screenshots/screen3.png) |
+| Home Screen (static)                    | Add Transaction Screen                  | Home Screen (dynamic)                     |
+|----------------------------------------|-----------------------------------------|-------------------------------------------|
+| ![Static Home](assets/screenshots/01_home_screen_static.png) | ![Add](assets/screenshots/02_add_transaction_screen.png) | ![Dynamic](assets/screenshots/03_home_screen_dynamic.png) |
 
 You'll be able to view your current balance, add transactions, and review your financial activity all in one place. The interface is clean and user-friendly — no need to be a finance expert.
 
