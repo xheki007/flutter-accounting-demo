@@ -1,0 +1,2 @@
+C:/Users/HP/Documents/flutter_accounting_demo/android/app/.cxx/RelWithDebInfo/2f621j4y/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/HP/Documents/flutter_accounting_demo/android/app/.cxx/RelWithDebInfo/2f621j4y/armeabi-v7a/CMakeFiles/rebuild_cache.dir
